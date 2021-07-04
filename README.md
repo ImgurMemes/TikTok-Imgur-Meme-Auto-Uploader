@@ -1,7 +1,7 @@
 # TikTok-Imgur-Meme-Auto-Uploader
-# This is a free to use TikTok video spammer that will individually spam a video into public feeds until you are either IP Banned or get bored. 
+ This is a free to use TikTok video spammer that will individually spam a video into public feeds until you are either IP Banned or get bored. 
 
-# Hi I am a robot & clearly not a human
+* Hi I am a robot & clearly not a human
 # This is in no way going to help you circumvent the TikTok verification system or banning protocols they have in place
 # I would NOT USE this on a TikTok account that I cared about if I were you... because it's going to get banned pretty quickly
 # Furthermore I have extremely limited experience in using TikTok as today was literally my first interaction with it & so far
